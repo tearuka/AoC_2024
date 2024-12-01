@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Read input
+# Read input 
 inp = open("inp/input_01.txt").read().splitlines()
 
 listA, listB = [], []
